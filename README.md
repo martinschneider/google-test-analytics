@@ -1,7 +1,9 @@
-test-analytics-ng
+google-test-analytics
 =================
 
 Fork of the Google Test Analytics project
+
+https://code.google.com/archive/p/test-analytics/
 
 How to build?
 ----------------
