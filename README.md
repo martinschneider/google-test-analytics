@@ -26,6 +26,8 @@ You can take a brief tour through test-analytics-ng by making steps 1 and 2 of t
 
 >mvn appengine:devserver
 
+![testcases](http://wiki.huihoo.com/images/7/7f/Google-test-analytics.png)
+
 Deploying test-analytics-ng in AppScale
 -------
 
